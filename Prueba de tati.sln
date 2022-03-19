@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba de tati", "Prueba de tati\Prueba de tati.csproj", "{8808EBD5-159F-4C16-893F-36E6FB680F75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8808EBD5-159F-4C16-893F-36E6FB680F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8808EBD5-159F-4C16-893F-36E6FB680F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8808EBD5-159F-4C16-893F-36E6FB680F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8808EBD5-159F-4C16-893F-36E6FB680F75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7AA2E12-F5BB-481E-B72E-690A73EBCE80}
+	EndGlobalSection
+EndGlobal
